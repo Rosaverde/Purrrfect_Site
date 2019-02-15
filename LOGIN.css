@@ -1,0 +1,197 @@
+body
+{
+    background: url(http://purrrfect.online/105493.jpg);
+	background-size: cover; 
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+html
+{
+	height: 100%;
+}
+#content
+{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+			     0px 18px 23px rgba(0,0,0,0.1);
+}
+.footerWrap
+{
+        background: rgba(0, 0, 0, 0.849);
+        padding: 10px;
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+}
+h1
+{
+	font-weight: 700;
+    font-size: 4em;
+    text-align: center;
+}
+
+hr
+{
+	width: 400px;
+	max-width: 90%; /* line is set not to overddrive width of screen */
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+nav
+    {
+        z-index: 2;
+    }
+#SignUp h1
+    {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+.g-recaptcha
+    {
+        margin-left: 30px;
+    }
+
+.login
+    {
+        background: #00000090;
+        width: 360px;
+        height: 550px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        color: white;
+        text-align: center;
+        border-radius: 10px;
+    }
+.signup
+    {
+        margin-top:7%;
+        height:680px;
+    }
+
+.login h1
+    {
+        font-size: 60px;
+        margin-top: 80px;
+        margin-bottom: 60px;
+    }
+
+.tbox
+    {
+        width: 260px;
+        height: 40px;
+        background: #f1f1f1b3;
+        border-radius: 10px;
+        margin: 10px auto;
+    }
+
+.tbox input
+    {
+        background: none;
+        border: none;
+        outline: none;
+        text-align: center;
+        width: 90%;
+        line-height: 37px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 18px;
+        color: #fff
+    }
+
+.btn_log
+    {
+        width: 260px;
+        height: 40px;
+        background: #3498db;
+        border-radius: 10px;
+        margin: 14px auto;
+        display: block;
+        font-family: "Montserrat",sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        color: white;
+        cursor: pointer;
+    }
+
+.b1
+    {
+        display: block;
+        width: 260px;
+        padding: 10px 0;
+        text-decoration: none;
+        color: white;
+        text-align: center;
+        margin: auto;
+       transition: 0.4s all;
+       border-radius: 10px;
+    }
+
+.b2
+    {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 260px;
+        margin-top:10px;
+        padding: 10px 0;
+        text-decoration: none;
+        text-align: center;
+        transition: 0.4s all;
+        color: #3498db;
+        border-radius: 10px;
+    }
+.hov:hover
+    {
+        background: #ffffff50;
+        color: red;
+        border-radius: 10px;
+    }
+/*
+a:hover hov
+    {
+        
+    }
+    */
+.error
+    {
+        color:red;
+        margin:10px;
+    }
+.welcome
+    {
+        margin: 20px auto;
+        display: block;
+        font-family: "Montserrat",sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        border: none;
+        color: #3498db;
+    }
+#games
+    {
+        text-align: left;
+    }
+.mingame
+    {
+        color: rgb(255, 255, 255);
+        background-color: rgba(0, 0, 0, 0.849);
+        padding: 50px;
+        border-radius: 10px;
+    }
+.mingame1
+    {
+        margin: 30px;
+    }
+.for
+    {
+        padding-top: 30px;
+    }
