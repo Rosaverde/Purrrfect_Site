@@ -18,10 +18,10 @@
 		$login = htmlentities($login, ENT_QUOTES, "UTF-8");
 		if ($result = @$connection->query(
 		sprintf("SELECT * FROM usersbase WHERE user='%s'",mysqli_real_escape_string($connection,$login))))
-			{ 
+			{
 				$howManyUsers = $result->num_rows;
 				if($howManyUsers>0)
-					{	
+					{
 						$row = $result->fetch_assoc();
 						if(password_verify($password,$row['pass']))
 							{
@@ -38,20 +38,16 @@
 							}
 						else 
 							{
-								
 								$_SESSION['error'] = '<span class="error">Your username or password is incorrect.</span>';
 								header('Location: LOGIN');
-								
 							}
 					} 	
 				else 
 					{
-						
 						$_SESSION['error'] = '<span class="error">Your username or password is incorrect.</span>';
 						header('Location: LOGIN');
 						
 					}
-				
 			}
 		$connection->close();
 	}

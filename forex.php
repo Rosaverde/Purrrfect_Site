@@ -32,11 +32,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://purrrfect.online">Purrfect Match</a>
+                <a class="navbar-brand" href="index">Purrfect Match</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://purrrfect.online">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="contact">Contact</a></li>
                     <li><a href="games">Games</a></li>
@@ -100,24 +100,6 @@
     <hr>
     <a href="/forex/FaleEliota" class="btn btn-default btn-lg" ><i class="fas fa-chart-line"></i>FaleEliota  </a>
     <hr>
-<!--<a href="" class="btn btn-default btn-lg" ><i class="fas fa-paw"></i></a>
-    <hr>
-    <a href="" class="btn btn-default btn-lg" ><i class="fas fa-paw"></i></a>
-    <hr>
-    <a href="https://www.mql5.com/en/articles/1572?utm_campaign=articles.list&utm_medium=special&utm_source=mt5editor " class="btn btn-default btn-lg" ><i class="fas fa-paw"></i>Protect Yourselves, Developers! </a>
-    <hr>
-    <a href="" class="btn btn-default btn-lg" ><i class="fas fa-paw"></i></a>
-    <hr>
-    <a href="https://admiralmarkets.com/education/articles/forex-strategy/simple-forex-scalping-strategies-and-techniques " class="btn btn-default btn-lg" ><i class="fas fa-paw"></i>Simple Forex Scalping Strategies And Techniques <h3>Admiral Markets</h3>  </a>
-    <hr>
-    <a href="https://admiralmarkets.com/education/articles/forex-strategy/forex-1-minute-scalping-strategy-explained " class="btn btn-default btn-lg" ><i class="fas fa-paw"></i>Forex 1-Minute Scalping Strategy Explained <h3>Admiral Markets</h3> </a>
-    <hr>
-    <a href="https://admiralmarkets.pl/education/articles/forex-indicators/kanal-keltnera " class="btn btn-default btn-lg" ><i class="fas fa-paw"></i>Kanał Keltnera na Platformie MetaTrader [Poradnik Tradera] </a>
-    <hr>
-    <a href="https://www.mql5.com/en/code/12872" class="btn btn-default btn-lg" ><i class="fas fa-paw"></i> Angry Bird (Scalping)</a>
-		<hr>
-    <a href="https://www.mql5.com/en/forum/43518/page14 " class="btn btn-default btn-lg" ><i class="fas fa-paw"></i>Experts: Angry Bird (Scalping) </a> 
-		<hr>-->
     </div>	
 
     <footer class="footerWrap">

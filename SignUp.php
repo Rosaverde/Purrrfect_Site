@@ -139,11 +139,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://purrrfect.online">Purrfect Match</a>
+                <a class="navbar-brand" href="index">Purrfect Match</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://purrrfect.online">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="contact">Contact</a></li>
                     <li><a href="games">Games</a></li>
@@ -297,4 +297,3 @@
 
 </body>
 </html>
-

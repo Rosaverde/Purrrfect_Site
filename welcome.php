@@ -34,7 +34,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://purrrfect.online">Purrfect Match</a>
+      <a class="navbar-brand" href="index">Purrfect Match</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
